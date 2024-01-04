@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code specific files
+.history/
+
+# Projects specific
+logs/
+*.class
+
+# Sass
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
